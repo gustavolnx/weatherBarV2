@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<rss>
+    <channel>
+        <title>Barra Salmeron</title>
+        <link>https://combovideos.com.br/</link>
+        <description>Barra Salmeron</description>
+        <language>pt-br</language>
+        <item>
+            <imgVar>https://app.combovideos.com.br/weather/Cloudy.png</imgVar>
+            <imgVar2>https://app.combovideos.com.br/weather/Cloudy-black.png</imgVar2>
+            <weather>34°C</weather>
+            <maxtemp>34°C</maxtemp>
+            <mintemp>21°C</mintemp>
+            <exchange1>COBRE: 7.891,00</exchange1>
+            <exchange2>ALUMÍNIO: 2.176,00</exchange2>
+            <exchange3>CHUMBO: 2.067,00</exchange3>
+            <exchange4>ESTANHO: 25.025,00</exchange4>
+            <exchange5>NÍQUEL: 18.335,00</exchange5>
+            <exchange6>ZINCO: 2.424,00</exchange6>
+            <dollar>5,0504</dollar>
+            <euro>5,3292</euro>
+            <regionalweather>
+                <sorocaba-sp>
+                    <imgVar>https://app.combovideos.com.br/weather/Cloudy.png</imgVar>
+                    <imgVar2>https://app.combovideos.com.br/weather/Cloudy-black.png</imgVar2>
+                    <weather>34°C</weather>
+                    <maxtemp>34°C</maxtemp>
+                    <mintemp>21°C</mintemp>
+                </sorocaba-sp>
+                <valenca-rj>
+                    <imgVar>https://app.combovideos.com.br/weather/ClearDay.png</imgVar>
+                    <imgVar2>https://app.combovideos.com.br/weather/ClearDay-black.png</imgVar2>
+                    <weather>31°C</weather>
+                    <maxtemp>32°C</maxtemp>
+                    <mintemp>20°C</mintemp>
+                </valenca-rj>
+            </regionalweather>
+        </item>
+    </channel>
+</rss>

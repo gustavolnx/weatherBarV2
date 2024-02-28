@@ -1,0 +1,183 @@
+*{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: absolute;
+}
+
+.bar-geral {
+    position: relative;
+    border : 7px solid black;
+    width: 1909px;
+    height: 58px;
+    z-index: 2;
+    margin-bottom: 200px;
+    position: absolute;
+}
+
+.hora a {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+    
+
+}
+
+.hora {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+
+.hora-img{
+    background-image: url(../images/alarm_FILL0_wght400_GRAD0_opsz24.png);
+    background-repeat: no-repeat;
+    background-size: 40px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 8px;
+    z-index: 30;
+}
+.separador-1{
+    position: absolute;
+    margin-left: 205px;
+    margin-top: 15px;
+    border-left: 1px solid black;
+    height: 40px;
+    z-index: 30;
+}
+
+.temperatura-img { 
+
+    /* background-image: url(../images/ClearDay-black.png); */
+    background-repeat: no-repeat;
+    background-size: 40px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 10px;
+    z-index: 30;
+    
+}
+
+.temperatura a {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.temperatura
+{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 12px;
+    
+}
+
+.separador-2{
+    position: absolute;
+    margin-left: 440px;
+    margin-top: 15px;
+    border-left: 1px solid black;
+    height: 40px;
+    z-index: 30;
+}
+
+
+.dolar-img
+{
+    background-image: url(../images/paid_FILL0_wght400_GRAD0_opsz24.png);
+    background-repeat: no-repeat;
+    background-size: 40px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 10px;
+    z-index: 30;
+}
+
+.dolar{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(37, 36, 36);
+    text-decoration: none;
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 12px;
+
+}
+.euro-img{
+    background-image: url(../images/euro_FILL0_wght400_GRAD0_opsz24.png);
+    background-repeat: no-repeat;
+    background-size: 40px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-left: 710px;
+    margin-top: 10px;
+    z-index: 30;
+}
+
+.euro{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(37, 36, 36);
+    text-decoration: none;
+    position: absolute;
+    margin-left: 760px;
+    margin-top: 12px;
+}
+
+.separador-3 {
+	position: absolute;
+	margin-left: 929px;
+	margin-top: 15px;
+	border-left: 1px solid black;
+	height: 40px;
+	z-index: 30;
+}
+
+.data{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(37, 36, 36);
+    text-decoration: none;
+    position: absolute;
+    margin-left: 990px;
+    margin-top: 12px;
+}
+
+.logo{
+    background-image: url(../images/facebook-logo-blue-circle-large-transparent-png.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-left: 1700px;
+    margin-top: 5px;
+    z-index: 30;
+}
+
+.separador-4 {
+	position: absolute;
+	margin-left: 685px;
+	margin-top: 15px;
+	border-left: 1px solid black;
+	height: 40px;
+	z-index: 30;
+}
